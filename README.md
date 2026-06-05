@@ -1,4 +1,4 @@
-# Teto Team Hakaton — MVP анализа обращений граждан
+# Teto Team Hakaton  MVP анализа обращений граждан
 
 ## Описание
 
